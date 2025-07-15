@@ -34,9 +34,9 @@ J'aime transformer les données complexes en solutions concrètes, interprétabl
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3l4un1ck&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3l4un1ck&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3l4un1ck&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marinaKpamegan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marinaKpamegan&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaKpamegan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
