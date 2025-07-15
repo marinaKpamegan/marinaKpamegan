@@ -1,5 +1,5 @@
 # 👩🏽‍💻 Falonne Marina KPAMEGAN  
-**Data & AI Engineer** | Passionnée par les données, l'intelligence artificielle et les systèmes intelligents.
+**Data Scientist & AI Engineer** | Passionnée par les données, l'intelligence artificielle et les systèmes intelligents.
 
 ---
 
