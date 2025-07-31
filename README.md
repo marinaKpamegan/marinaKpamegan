@@ -14,10 +14,11 @@ J'aime transformer les données complexes en solutions concrètes, interprétabl
 
 ## 🚀 Compétences clés
 
-- **🧠 Modélisation IA & ML** : NLP, systèmes de recommandation, détection d’anomalies, autoencoders, KMeans, LLMs
-- **🔍 Analyse & Prétraitement de données** : données séquentielles, exploration statistique, visualisation, clustering
-- **🛠️ MLOps & Déploiement** : Docker, MLflow, Airflow, CI/CD avec GitHub & GitLab, APIs Laravel
-- **📊 DataViz & Dashboards** : Power BI, Tableau, Plotly, Streamlit
+- **🧠 Modélisation IA & ML : NLP, systèmes de recommandation, détection d’anomalies, clustering, LLMs, IA générative, HuggingFace Transformers
+- **🔍 Analyse & Prétraitement de données : données séquentielles, exploration statistique, visualisation, Knime, Dataiku, SQL & NoSQL (MySQL, PostgreSQL, MongoDB), Kafka
+- **🛠️ MLOps & Déploiement : Docker, MLflow, Airflow, CI/CD (GitHub/GitLab), Kubernetes, APIs (Laravel), Azure Databricks, Microsoft Fabri
+- **📊 DataViz & Dashboards : Power BI, Tableau, Plotly, Streamlit, Seaborn, Grafana
+
 
 ---
 
@@ -26,7 +27,7 @@ J'aime transformer les données complexes en solutions concrètes, interprétabl
 | Projet | Description | Techs |
 |--------|-------------|-------|
 | [`pdf_resumer_llm`](https://github.com/marinaKpamegan/pdf_resumer_llm) | Résumeur de PDF basé sur LLM | Python, HuggingFace, Streamlit |
-| [`sise_llm`](https://github.com/marinaKpamegan/sise_llm) | Assistant de génération d’idées pour étudiants en SISE | LangChain, LLM, NLP |
+| [`sise_llm`](https://github.com/marinaKpamegan/sise_llm) | Assistant conversationnel spécialisé dans le domaine de l'éducation | LangChain, LLM, NLP, Mistral & Gemini |
 | [`multinomial_logistic_regression_package`](https://github.com/marinaKpamegan/multinomial_logistic_regression_package) | Package R pour la régression multinomiale | R, stats, ML |
 
 ---
@@ -56,8 +57,8 @@ J'aime transformer les données complexes en solutions concrètes, interprétabl
 
 ### 🔸 SNCF Réseau – *Stagiaire Data Scientist*  
 _Mars 2025 - Oct. 2025, Lyon_  
-- Pipeline de détection d’anomalies (autoencoders + KMeans)  
-- Visualisation avancée, annotation interactive, et entraînement supervisé
+- Pipeline de détection d’anomalies (LSTM autoencoders + KMeans)  
+- Préproceiing, visualisation avancée, et entraînement semi-supervisée
 
 ### 🔸 EffetB – *Stagiaire Ingénieure Data R&D*  
 _Avril - Août 2024, Lyon_  
