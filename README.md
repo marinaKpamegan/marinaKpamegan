@@ -87,13 +87,13 @@ _Décembre 2021 - Août 2022, Cotonou_
 
 ## 🛠️ Stack technique
 
-**Langages** : Python, R, JavaScript, SAS
-**Bases de données** : MySQL, PostgreSQL, MongoDB, SQLite
-**Outils DevOps/MLOps** : GitHub, GitLab, Docker, MLFlow, Kubernetes, Airflow
-**Machine Learning** : Scikit-learn, TensorFlow, PyTorch, HuggingFace Transformers, LLM & RAG
-**Big Data & Cloud** : Azure Databricks, Microsoft Fabric, GCP
-**Outils Data** : Power BI, Tableau, Excel, Grafana, Knime, Dataiku
-**Librairies Python** : Numpy, Pandas, Matplotlib, Plotly, Streamlit, Seaborn
+- **Langages** : Python, R, JavaScript, SAS 
+- **Bases de données** : MySQL, PostgreSQL, MongoDB, SQLite
+- **Outils DevOps/MLOps** : GitHub, GitLab, Docker, MLFlow, Kubernetes, Airflow
+- **Machine Learning** : Scikit-learn, TensorFlow, PyTorch, HuggingFace Transformers, LLM & RAG
+- **Big Data & Cloud** : Azure Databricks, Microsoft Fabric, GCP
+- **Outils Data** : Power BI, Tableau, Excel, Grafana, Knime, Dataiku
+- **Librairies Python** : Numpy, Pandas, Matplotlib, Plotly, Streamlit, Seaborn
 
 ---
 
