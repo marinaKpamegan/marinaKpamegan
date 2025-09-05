@@ -14,10 +14,10 @@ J'aime transformer les données complexes en solutions concrètes, interprétabl
 
 ## 🚀 Compétences clés
 
-- **🧠 Modélisation IA & ML : NLP, systèmes de recommandation, détection d’anomalies, clustering, LLMs, IA générative, HuggingFace Transformers
-- **🔍 Analyse & Prétraitement de données : données séquentielles, exploration statistique, visualisation, Knime, Dataiku, SQL & NoSQL (MySQL, PostgreSQL, MongoDB), Kafka
-- **🛠️ MLOps & Déploiement : Docker, MLflow, Airflow, CI/CD (GitHub/GitLab), Kubernetes, APIs (Laravel), Azure Databricks, Microsoft Fabri
-- **📊 DataViz & Dashboards : Power BI, Tableau, Plotly, Streamlit, Seaborn, Grafana
+- **🧠 Modélisation IA & ML** : NLP, systèmes de recommandation, détection d’anomalies, clustering, LLMs, IA générative, HuggingFace Transformers
+- **🔍 Analyse & Prétraitement de données** : données séquentielles, exploration statistique, visualisation, Knime, Dataiku, SQL & NoSQL (MySQL, PostgreSQL, MongoDB), Kafka
+- **🛠️ MLOps & Déploiement** : Docker, MLflow, Airflow, CI/CD (GitHub/GitLab), Kubernetes, APIs (Laravel), Azure Databricks, Microsoft Fabri
+- **📊 DataViz & Dashboards** : Power BI, Tableau, Plotly, Streamlit, Seaborn, Grafana
 
 
 ---
